@@ -1,0 +1,47 @@
+[
+  {
+    "index": 0,
+    "event": "created",
+    "time": [
+      2023,
+      9,
+      22,
+      7,
+      13,
+      53,
+      82066
+    ]
+  },
+  {
+    "duration": 4.197775,
+    "colour": "green",
+    "predicted": "green",
+    "revert_if_wrong": "off",
+    "index": 1,
+    "time": [
+      2023,
+      9,
+      22,
+      7,
+      43,
+      30,
+      294217
+    ]
+  },
+  {
+    "duration": 4.285939,
+    "colour": "green",
+    "predicted": "green",
+    "revert_if_wrong": "off",
+    "index": 2,
+    "time": [
+      2023,
+      9,
+      22,
+      7,
+      55,
+      21,
+      925000
+    ]
+  }
+]
