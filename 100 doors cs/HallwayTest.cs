@@ -6,6 +6,7 @@ public class Hallway {
 
     public bool IsDoorOpen(int roomNumber)  {
         return door[roomNumber];
+
     }
 
     public void Toggle(int roomNumber) {
